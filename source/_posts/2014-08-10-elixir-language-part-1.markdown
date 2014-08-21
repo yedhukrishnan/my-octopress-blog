@@ -3,7 +3,7 @@ layout: post
 title: "Elixir Language (Part 1)"
 date: 2014-08-10 17:06:00 +0530
 comments: true
-categories: [technical, elixir, functional]
+categories: [technical, elixir, functional programming]
 ---
 
 After listening to the Introduction into Elixir language, by Dave Thomas, in [Bangalore Ruby Users Group meetup][brug_meetup], I always wanted to learn the language, or at least functional programming part of it. I did a failed attempt the same day evening! Yesterday, I started again with the tutorials. I am sharing some of my learnings here.
@@ -32,7 +32,7 @@ This is a distilled version of installation instructions for Debian/Ubuntu users
 
 In the next part, I'll share the basic constructs I liked in Elixir language on the first day of learning.
 
-References:
+*References:*
 
  * *[Elixir: Getting Started Guide][getting_started]*
  * *[Elixir (Programming Language)][elixir_language]*
